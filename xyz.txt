@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hi I am a JAVA developer.
+=======
+This is xyz file.
+this is ankit xyz file
+>>>>>>> a9648d7b14bd442628685237d8548ed9bcc5f016
